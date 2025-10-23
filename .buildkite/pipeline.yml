@@ -3,5 +3,5 @@ steps:
     label: ":wave: Hello world"
 
   - command: echo "Hello World x2"
-    label: "Sneaky extra hello"
+    label: "Sneaky Extra Hello"
 
